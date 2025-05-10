@@ -1,6 +1,6 @@
 ECHO OFF
 CLS
-Title ....TEST MENU....
+Title TEST .TXT FILE
 :Start
 color 2
 ECHO M   
@@ -19,8 +19,6 @@ ECHO K
 ECHO O
 ECHO N        
 ECHO         Made by witekon
-ECHO(
-ECHO(
 
 timeout 1
 
